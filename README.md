@@ -1,2 +1,2 @@
 # password-reseter
-A tool for reseting passwords in multiple systems.
+A tool for reseting passwords in multiple systems
